@@ -13,8 +13,8 @@ It is my Finite State Machines for simulation a day of mu life.
 
 #### It is one of day simulated by my code:
 
-![image](https://github.com/Nazarious-ucu/day-of-my-life/assets/116711001/bab6d0db-1c41-4e45-8d56-c3ae5956d677)
-![image](https://github.com/Nazarious-ucu/day-of-my-life/assets/116711001/bbc86449-7661-461b-bc27-ae3742b76bdc)
+![image](https://github.com/Nazarious-ucu/day-of-my-life/assets/116711001/722a4e4b-51a2-4331-a438-47b9cc25088b)
+![image](https://github.com/Nazarious-ucu/day-of-my-life/assets/116711001/98c03e76-a555-4a92-9e8e-57a7ffd6e674)
 
 #### One more:
 
