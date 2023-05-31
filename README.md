@@ -18,5 +18,5 @@ It is my Finite State Machines for simulation a day of mu life.
 
 #### One more:
 
-![image](https://github.com/Nazarious-ucu/day-of-my-life/assets/116711001/eccb8e93-e184-4c51-9f66-185885103567)
-![image](https://github.com/Nazarious-ucu/day-of-my-life/assets/116711001/1297b9ed-6413-41ee-8067-59fca8b554d3)
+![image](https://github.com/Nazarious-ucu/day-of-my-life/assets/116711001/39c2bdba-abed-4483-944d-03cc35f9ad83)
+![image](https://github.com/Nazarious-ucu/day-of-my-life/assets/116711001/3d60cc77-4012-4e6c-993b-aaa100561de6)
